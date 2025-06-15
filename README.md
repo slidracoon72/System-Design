@@ -1,0 +1,2 @@
+# System-Design
+System Design is a comprehensive GitHub repository containing solutions to common system design questions frequently asked in SDE interviews, ranging from easy to hard. It also includes important books, deep dives into core technologies (e.g., databases, caching, messaging systems), and practical approaches to building scalable and efficient systems. This repo serves as a one-stop resource for mastering system design fundamentals and advanced concepts.
